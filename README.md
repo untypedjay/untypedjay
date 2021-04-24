@@ -31,6 +31,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
+<br>
 
 ### :zap: GitHub Stats
 <a><img align="left" alt="untypedjay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=untypedjay&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&langs_count=10"/></a>
